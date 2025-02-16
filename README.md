@@ -2,7 +2,9 @@
 
 A curated list of **Cross Modal Retrieval** for text, image, audio, video, etc.
 
-
+###  Includes:  
+- Representation Learning
+- Multimodal LLMs
 
 
 ###  **2025**  
