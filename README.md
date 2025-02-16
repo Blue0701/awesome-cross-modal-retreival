@@ -1,6 +1,6 @@
-# Awesome Multimodal representation learning   
+# Awesome Cross Modal Retrieval   
 
-A curated list of **multimodal representation learning models** for text, image, audio, video, etc.
+A curated list of **Cross Modal Retrieval** for text, image, audio, video, etc.
 
 
 
