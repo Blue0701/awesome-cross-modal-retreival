@@ -1,4 +1,4 @@
-# Awesome Representatoin Learning
+# Awesome Representation Learning
 
 |date|paper|code|
 |------|---|---|
