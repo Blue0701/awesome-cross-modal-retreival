@@ -11,6 +11,8 @@
 |2023.06|Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models|[code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
 
 ## Text - Vision - Audio
-|2023.12|Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action|[code](https://github.com/allenai/unified-io-2?tab=readme-ov-file)
+|date|paper|code|
+|------|---|---|
+|2023.12|Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action|[code](https://github.com/allenai/unified-io-2?tab=readme-ov-file)  
 |2023.12|VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset|[code](https://github.com/txh-mercury/vast)
 
